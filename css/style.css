@@ -8,17 +8,6 @@ body {
     margin: 10px 100px;
 }
 
-header {
-    height: 70px;
-    margin-bottom: 20px;
-    background-color: violet;
-}
-
-footer {
-    height: 40px;
-    background-color:rgb(132, 52, 236);
-}
-
 .float-left {
     float: left;
 }
@@ -51,7 +40,7 @@ footer {
     margin-left: 10px;
 }
 
-.article {
+.middle-side {
     width: calc(60% - 20px);
     height: 300px;
 
@@ -74,4 +63,15 @@ footer {
     width: 100%;
     background-color: mediumblue;
     margin-bottom: 5px;
+}
+
+#main-header {
+    height: 70px;
+    margin-bottom: 20px;
+    background-color: violet;
+}
+
+#main-footer {
+    height: 40px;
+    background-color:rgb(132, 52, 236);
 }
