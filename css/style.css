@@ -22,7 +22,7 @@ body {
 }
 
 .lower-segment {
-    display: inline-block;
+    display: inline;
     height: 300px;
     margin-bottom: 5px;
 }
